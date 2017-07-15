@@ -60,3 +60,6 @@ Secrets.GOOGLE_MAPS_API_KEY  // 'abcdefgh'
 
 The `.env` file is ignored by git keeping those secrets out of your repo.
 
+=======
+# JokenpoSpeedyBet
+Play JOKENPO against AI and bet fake money while times passes by
